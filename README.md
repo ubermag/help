@@ -21,6 +21,9 @@ We encourage questions.
   operating system, versions, etc.), it's easier for us to understand your
   question.
 
+## Gitter
+
+You can also ask us questions on our Gitter [channel](https://gitter.im/joommf/support).
 
 ## Community Technical Helpers
 Are you a community member that enjoys sharing your knowledge and helping
