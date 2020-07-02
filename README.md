@@ -20,10 +20,14 @@ We encourage questions.
 + Click the `Issues` tab next to top of the page, then click the
   green `New Issue` button. Ask your question in the title and comment fields, then click
   `Submit new issue`. Congratulations, you submitted your question! We'll try
-  to get back to you shortly. Tip: If you provide helpful info (such as
+  to get back to you shortly. Tip: If you provide 
+  [helpful info](https://fangohr.github.io/computing/smartquestion.html) (such as
   operating system, versions, etc.), it's easier for us to understand your
   question.
 
+## What is the etiquette for asking questions?
+
+[Asking the smart question to get a useful answer](https://fangohr.github.io/computing/smartquestion.html)
 
 ## Community Technical Helpers
 Are you a community member that enjoys sharing your knowledge and helping
