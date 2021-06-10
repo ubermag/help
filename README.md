@@ -1,5 +1,5 @@
 
-:sparkles: Need some help or have some questions? Please [open an issue here](https://github.com/joommf/help/issues/new). 
+:sparkles: Need some help or have some questions? Please [open an issue here](https://github.com/ubermag/help/issues/new). 
 
 :sparkles: [See all issues](https://github.com/ubermag/help/issues?utf8=✓&q=is%3Aissue+) (including the closed ones - they may contain the answer to your question)
 
